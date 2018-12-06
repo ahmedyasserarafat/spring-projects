@@ -1,0 +1,79 @@
+Reactive Programming for Java Developers
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+Twitter: @venkat_s
+http://www.agiledeveloper.com download link
+  
+Reactive, what?:
+-Is this something totally new?
+-Old concerns with renewed urgency
+-What changed?
+ -Big data
+ -Internet enabled devices
+ -Usage patterns
+-Reactive applications?
+-What is it really?
+	-event-driven
+	-scalable
+	-resilient
+	-responsive
+-were not
+ -multithreading
+ -futures
+ -callbacks
+ enough?
+
+Efficiency:
+-Efficiency is attained not by doing tasks faster, 
+ but by avoiding those that should't be done in the first place
+
+Failures:
+-Respect failures, from the get-go
+
+Functional programming:
+-next logical step
+-composition and lazy evaluation
+
+Being reactive:
+-Observable++
+ -dataflow
+ -push instead of pull iteration
+ -signal end
+ -respectfully deal with errors
+ -synchronous, asynchronous, or lazy
+
+Exercise 1:
+-Let's query for a stock price
+-issues
+
+Exercise 2:
+-An observable stream of data
+
+Exercise 3:
+-Unsubscribing
+
+Exercise 4:
+-Handle failure
+-What happens on error
+-options:
+	-onErrorResumeNext
+
+Exercise 5:
+-skip, take select values
+
+Exercise 6:
+-asynchronous clients
+ - subsribeOn
+ -Schedulers.from(...)
+ -newThread
+ -io
+ -...
+
+Exercise 7:
+-slow clients
+-setProducer and request
+
+-Summary
+	
+You can download this topics list and code examples from:
+	http://www.agiledeveloper.com	 - downloads link

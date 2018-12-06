@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 26 12:00:15 CDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0145-9efa-e8c0-000000b01848 
+on database directory U:\relledge\Pluralsight\RxJava\Code\reactive-programming-java-8-rxjava\m4\after\reactive-programming-java-8-rxjava-m4\pluralSightTest with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+Loaded from file:/C:/Users/relledge/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.10.1.1/9f6f910f0373adc1b23c10f9b4bb151b7e7449f/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0-b132
+user.dir=U:\relledge\Pluralsight\RxJava\Code\reactive-programming-java-8-rxjava\m4\after\reactive-programming-java-8-rxjava-m4
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
